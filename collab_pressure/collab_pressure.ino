@@ -2,6 +2,7 @@
 //code for breadboard with led and pressure sensor
 //
 int sensor = 0;
+int testVariable; 
 
 void setup()
 {
